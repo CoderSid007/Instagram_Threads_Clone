@@ -1,0 +1,40 @@
+List listThread(){
+  return [
+    {
+      'name' : 'Hritik',
+      'posted' : '                                                          9 m',
+      'description' : 'Hi Threads',
+      'image' : '',
+      'profileImage' : 'profile.jpg',
+      'replies' : '120',
+      'likes' : '198',
+      'replier' : 'h2.jpg',
+      'replier1' : 'p2.png',
+      'replier2' : 'p3.jpg',
+    },
+    {
+      'name' : 'psycho',
+      'posted' : '                                                     30 m',
+      'description' : 'Very good day to all of you',
+      'image' : 'p3.jpg',
+      'profileImage' : 'p3.jpg',
+      'replies' : '10',
+      'likes' : '18',
+      'replier' : 'h2.jpg',
+      'replier1' : 'p2.png',
+      'replier2' : 'profile.jpg',
+    },
+    {
+      'name' : 'chimko',
+      'posted' : '                                                     45 m',
+      'description' : 'Chandrayaan-3 Live Updates: The Indian Space Research Organisation (ISRO) is embarking to achieve a successful soft landing on the Moon with the launch of Chandrayaan-3. The spacecraft is now primed for its scheduled moon landing on August 23. This endeavor places India on track to become the fourth nation globally to achieve this remarkable milestone, joining the company of the United States, Russia, and China.The mission was launched effectively on July 14 via the GSLV Mark 3 (LVM 3) heavy-lift launch vehicle from the Satish Dhawan Space Centre in Andhra Pradeshs Sriharikota.',
+      'image' : '',
+      'profileImage' : 'h2.jpg',
+      'replies' : '40',
+      'likes' : '213',
+      'replier' : 'h2.jpg',
+      'replier1' : 'p2.png',
+      'replier2' : 'p3.jpg',
+    },
+  ];
+}
